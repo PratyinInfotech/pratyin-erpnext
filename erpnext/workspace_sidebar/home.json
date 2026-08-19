@@ -9,6 +9,7 @@
   {
    "child": 0,
    "collapsible": 1,
+   "icon": "zap",
    "indent": 0,
    "keep_closed": 1,
    "label": "Shortcuts",
@@ -829,18 +830,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Users",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "user",
    "indent": 0,
    "keep_closed": 0,
@@ -944,18 +933,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Website",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -1134,18 +1111,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Invoicing",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -2540,7 +2505,7 @@
   {
    "child": 0,
    "collapsible": 1,
-   "icon": "",
+   "icon": "share",
    "indent": 0,
    "keep_closed": 1,
    "label": "Share Management",
@@ -2686,18 +2651,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Subcontracting",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -3100,18 +3053,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Expenses",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "layout-dashboard",
    "indent": 0,
    "keep_closed": 0,
@@ -3328,18 +3269,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "HR Setup",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "layout-dashboard",
    "indent": 0,
    "keep_closed": 0,
@@ -3464,18 +3393,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Leaves",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -3671,18 +3588,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Payroll",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "layout-dashboard",
    "indent": 0,
    "keep_closed": 0,
@@ -3873,18 +3778,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Performance",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "goal",
    "indent": 0,
    "keep_closed": 0,
@@ -3999,18 +3892,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Recruitment",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -4223,18 +4104,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Shift & Attendance",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -4467,18 +4336,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Tax & Benefits",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "badge-alert",
    "indent": 0,
    "keep_closed": 0,
@@ -4586,25 +4443,13 @@
   {
    "child": 0,
    "collapsible": 1,
-   "icon": "customer",
+   "icon": "hourglass",
    "indent": 0,
    "keep_closed": 1,
    "label": "Tenure",
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Tenure",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -4801,18 +4646,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "India Payroll",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "chart-network",
    "indent": 0,
    "keep_closed": 0,
@@ -4893,18 +4726,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Assets",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -5133,18 +4954,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Buying",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -5484,18 +5293,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Manufacturing",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -5874,18 +5671,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Projects",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "chart",
    "indent": 0,
    "keep_closed": 0,
@@ -6068,18 +5853,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Quality",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "inspection-panel",
    "indent": 0,
    "keep_closed": 0,
@@ -6204,18 +5977,6 @@
    "link_type": "DocType",
    "show_arrow": 0,
    "type": "Section Break"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Selling",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
   },
   {
    "child": 1,
@@ -6866,18 +6627,6 @@
   {
    "child": 1,
    "collapsible": 1,
-   "icon": "home",
-   "indent": 0,
-   "keep_closed": 0,
-   "label": "Home",
-   "link_to": "Stock",
-   "link_type": "Workspace",
-   "show_arrow": 0,
-   "type": "Link"
-  },
-  {
-   "child": 1,
-   "collapsible": 1,
    "icon": "chart",
    "indent": 0,
    "keep_closed": 0,
@@ -7437,7 +7186,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-08-07 16:04:16.737647",
+ "modified": "2026-08-19 16:14:20.449200",
  "modified_by": "Administrator",
  "module": "Setup",
  "name": "Home",
