@@ -4586,7 +4586,7 @@
   {
    "child": 0,
    "collapsible": 1,
-   "icon": "customer",
+   "icon": "hourglass",
    "indent": 0,
    "keep_closed": 1,
    "label": "Tenure",
@@ -7437,7 +7437,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-08-19 16:46:29.745163",
+ "modified": "2026-08-19 17:09:09.524265",
  "modified_by": "Administrator",
  "module": "Setup",
  "name": "Home",
